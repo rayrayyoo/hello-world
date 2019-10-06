@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("Hello, world!");
 		Hellogit hg = new Hellogit();
 		hg.hellogit();
+		hg.supergit("yoiueoranleaijfisdj");
 	}
 }
