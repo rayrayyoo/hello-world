@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\rayao\git_coms309\hello-world\EclipseGit\.metadata\.plugins\org.eclipse.jdt.core
+3804998799.index
+1954479224.index
+1663578603.index
+3175120393.index
+1783390832.index
+1088147742.index
+2751846999.index
+3942438674.index
+4203154688.index
+3168683922.index
+262295448.index
+4076030586.index
+463286450.index
+1163450012.index
+4143194979.index
+1895731291.index
+3205614494.index
+3157716105.index
+3501639093.index
