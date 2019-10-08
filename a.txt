@@ -1,6 +1,6 @@
 a v5
-x v1
-y v1
-z v2
-u v1
+x v2
+y v2
+z v3
+u v2
 
